@@ -1,0 +1,10 @@
+inurl:url=https
+inurl:url=http
+inurl:u=https
+inurl:u=http
+inurl:redirect?https
+inurl:redirect?http
+inurl:redirect=https
+inurl:redirect=http
+inurl:link=http
+inurl:link=https
